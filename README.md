@@ -1,4 +1,4 @@
-# Hello, there! :wave:
+# Hello, world! :wave:
 <img align="right" src="https://media1.tenor.com/images/65491d68c2a6aab9ff638cb85ca8cfa2/tenor.gif?itemid=13656077" alt="me when coding" height="300">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marco.tan.200405@gmail.com)

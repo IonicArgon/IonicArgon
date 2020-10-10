@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/laynH/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sakura_Nene_CPP.jpg?raw=true" alt="me when coding" height="220">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marco.tan.200405@gmail.com)
-![Discord](https://img.shields.io/badge/-Extro%239092-7289DA?style=flat&logo=discord&logoColor=white "that do be my discord username doe")
+[![Discord](https://img.shields.io/badge/-Extro%239092-7289DA?style=flat&logo=discord&logoColor=white "that do be my discord username doe")](https://tinyurl.com/qtd2ref)
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white "you are literally on it right now, wh?")](https://github.com/IonicArgon)  
 
 ### I am Marco Tan

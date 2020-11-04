@@ -29,7 +29,6 @@
 <p align="center">💩 I consistently think my code is garbage. <strike>honestly it probably is</strike> 💩</p>
 <p align="center">🎨 I'm something of a graphics designer myself. 🎨</p>
 
-<br>
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">

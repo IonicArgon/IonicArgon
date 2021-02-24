@@ -20,24 +20,22 @@
 
 #  
 
-<h3 align="center">About Me</h3>
+My name's Marco and I'm just your average ~~functionally depressed~~ IB student with a **thorough** interest in **STEM** ~~how original amirite?~~. Though I don't really participate much in open-source projects, I would really like to try it sometime.
 
-<p align="center">💻 I'm just your everyday coding hobbyist. 💻</p>
-<p align="center">🤖 I'm into robotics and automation. 🤖</p>
-<p align="center">🤖 I'm the lead programmer of VRC team 1104A. Check out our team <a href="https://github.com/Discobots-1104A">here</a>. 🤖</p>
-<p align="center">💩 I consistently think my code is garbage. <strike>honestly it probably is</strike> 💩</p>
-<p align="center">🎨 I'm something of a graphics designer myself. 🎨</p>
+Currently, I do systems programming with my Arduino R3 and Due, and for my VRC team as Lead Programmer. Check out my team (1104a) [here](https://github.com/Discobots-1104A)!
+
+*ima go toil over school work and stuff now k thx*
 
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-C%2B%2B%20%E2%80%94%20fluent%20-%237c8363?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/-C%23%20%E2%80%94%20learning%20-%237c8363?style=for-the-badge&logo=C-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/-C%20%E2%80%94%20intermediate%20-%237c8363?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/-lua%20%E2%80%94%20intermediate%20-%237c8363?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/-rust%20%E2%80%94%20learning%20-%237c8363?style=for-the-badge&logo=rust&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/-git-%237c8363?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/-GCC%2FG++-%237c8363?style=for-the-badge&logo=gnu&logoColor=white">
-    <img src="https://img.shields.io/badge/-Visual%20Studio-%237c8363?style=for-the-badge&logo=visual-studio&logoColor=white">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%237c8363?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 

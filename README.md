@@ -22,7 +22,7 @@
 
 My name's Marco and I'm just your average ~~functionally depressed~~ IB student with a **thorough** interest in **STEM** ~~how original amirite?~~. Though I don't really participate much in open-source projects, I would really like to try it sometime.
 
-Currently, I do systems programming with my Arduino R3 and Due, and for my VRC team as Lead Programmer. Check out my team (1104a) [here](https://github.com/Discobots-1104A)!
+Currently, I do systems programming with my Arduino R3 and Due, and for my VRC team as Lead Programmer. Check out my team (1104A) [here](https://github.com/Discobots-1104A)!
 
 *ima go toil over school work and stuff now k thx*
 

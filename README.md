@@ -13,8 +13,8 @@
     <a href="https://www.linkedin.com/in/marco-tan-9191021a3/">
         <img src="https://img.shields.io/badge/-Marco%20Tan-7c8363?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:marco.tan.200405@gmail.com">
-        <img src="https://img.shields.io/badge/-marco.tan.200405@gmail.com-7c8363?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="mailto:marco@ionicargon.ca">
+        <img src="https://img.shields.io/badge/-marco@ionicargon.ca-7c8363?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 

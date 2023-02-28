@@ -30,8 +30,8 @@ Currently, I do systems programming with my Arduino R3 and Due, and for my VRC t
 
 <p align="center">
     <img src="https://img.shields.io/badge/-C%2B%2B%20%E2%80%94%20fluent%20-%237c8363?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/-rust%20%E2%80%94%20intermediate%20-%237c8363?style=for-the-badge&logo=rust&logoColor=white">
-    <img src="https://img.shields.io/badge/-javascript%20%E2%80%94%20learning%20-%237c8363?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/-python%20%E2%80%94%20fluent%20-%237c8363?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-javascript%20%E2%80%94%20intermediate%20-%237c8363?style=for-the-badge&logo=javascript&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/-git-%237c8363?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/-GCC%2FG++-%237c8363?style=for-the-badge&logo=gnu&logoColor=white">

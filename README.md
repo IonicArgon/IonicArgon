@@ -6,17 +6,6 @@ Programming websites is cool and all, but it's pretty freaking awesome that I ca
 
 That's about it, honestly. Hope I see you again sometime. 
 
-<h3 align="center">Languages and Tools</h3>
+## Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,CSS,nextjs,react,mongodb,firebase,gcp,postman,nodejs)](https://skillicons.dev)
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-C%2B%2B%20%E2%80%94%20fluent%20-%237c8363?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/-python%20%E2%80%94%20fluent%20-%237c8363?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/-javascript%20%E2%80%94%20intermediate%20-%237c8363?style=for-the-badge&logo=javascript&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/-git-%237c8363?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/-GCC%2FG++-%237c8363?style=for-the-badge&logo=gnu&logoColor=white">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%237c8363?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
-
-<br>
-<h6 align="center"><strike>bruh this README isn't even in markdown anymore it's all HTML</strike></h6>

@@ -1,17 +1,4 @@
-<style>
-  a.fill-div {
-    display: block;
-    height: 100%;
-    width: 100%;
-    text-decoration: none;
-  }
-</style>
-
-<div>
-<a href="https://www.youtube.com/watch?v=rV5ynCW-kVw" class="fill-div"></a>
-
-
-# :wave: Hi, I'm Marco. 
+# [:wave: Hi, I'm Marco.](https://www.youtube.com/watch?v=rV5ynCW-kVw) 
 
 I'm a **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
 
@@ -27,5 +14,3 @@ That's about it, honestly. Hope I see you again sometime.
 
 ## Other Tools
 [![Other toolbelt](https://skillicons.dev/icons?i=ps,autocad,latex)](https://skillicons.dev)
-
-</div>

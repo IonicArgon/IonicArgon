@@ -7,5 +7,6 @@ Programming websites is cool and all, but it's pretty freaking awesome that I ca
 That's about it, honestly. Hope I see you again sometime. 
 
 ## Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,CSS,nextjs,react,mongodb,firebase,gcp,postman,nodejs)](https://skillicons.dev)
+[![Web Skills](https://skillicons.dev/icons?i=ts,tailwind,nextjs,firebase,gcp,postman,vercel)](https://skillicons.dev)
+[![Other langs and tools](https://skillicons.dev/icons?i=c,cpp,py,matlab,lua,tensorflow,git)](https://skillicons.dev)
 

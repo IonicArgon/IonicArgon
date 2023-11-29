@@ -6,7 +6,11 @@ Programming websites is cool and all, but it's pretty freaking awesome that I ca
 
 That's about it, honestly. Hope I see you again sometime. 
 
-## Technical Skills
-[![Web Skills](https://skillicons.dev/icons?i=ts,tailwind,nextjs,firebase,gcp,postman,vercel)](https://skillicons.dev)
-[![Other langs and tools](https://skillicons.dev/icons?i=c,cpp,py,matlab,lua,tensorflow,git)](https://skillicons.dev)
+## Web Toolbelt
+[![Web toolbelt](https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,flask,firebase,gcp,postman,vercel)](https://skillicons.dev)
 
+## Other Toolbelt
+[![Other toolbelt](https://skillicons.dev/icons?i=c,cpp,py,matlab,lua,tensorflow,git)](https://skillicons.dev)
+
+## Other Tools
+[![Other toolbelt](https://skillicons.dev/icons?i=ps,AutoCAD,latex)](https://skillicons.dev)

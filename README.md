@@ -1,12 +1,6 @@
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=Ysbr4JzG6aQ">
-        <img src="resources/github-profile-banner.png">
-    </a>
-</p>
+# :wave: Hi, I'm Marco. 
 
-#  
-
-Hi. I'm a **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
+I'm a **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
 
 Programming websites is cool and all, but it's pretty freaking awesome that I can tell a robot how to do things and how not to kill people.
 

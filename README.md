@@ -1,5 +1,14 @@
+<style>
+  a.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+  }
+</style>
+
 <div>
-<a href="https://www.youtube.com/watch?v=rV5ynCW-kVw" style="display:block; width:100%; height:100%;"></a>
+<a href="https://www.youtube.com/watch?v=rV5ynCW-kVw" class="fill-div"></a>
 
 
 # :wave: Hi, I'm Marco. 

@@ -1,30 +1,16 @@
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=ub82Xb1C8os">
+    <a href="https://www.youtube.com/watch?v=Ysbr4JzG6aQ">
         <img src="resources/github-profile-banner.png">
-    </a>
-    <br>
-    <br>
-    <a href ="https://www.facebook.com/marco.tan.200405">
-        <img src="https://img.shields.io/badge/-marco.tan.200405-7c8363?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/marco_tan_04/">
-        <img src="https://img.shields.io/badge/-%40marco__tan__04-7c8363?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/marco-tan-9191021a3/">
-        <img src="https://img.shields.io/badge/-Marco%20Tan-7c8363?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:marco@ionicargon.ca">
-        <img src="https://img.shields.io/badge/-marco@ionicargon.ca-7c8363?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </p>
 
 #  
 
-My name's Marco and I'm just your average STEM enthusiast. Though I don't really participate much in open-source projects, I would really like to try it sometime.
+Hi. I'm a **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
 
-Currently, I do systems programming with my Arduino R3 and Due, and for my VRC team as the lead programmer. Check out my team (1104A) [here](https://github.com/Discobots-1104A)!
+Programming websites is cool and all, but it's pretty freaking awesome that I can tell a robot how to do things and how not to kill people.
 
-*ima go toil over school work and stuff now k thx*
+That's about it, honestly. Hope I see you again sometime. 
 
 <h3 align="center">Languages and Tools</h3>
 

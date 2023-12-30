@@ -10,7 +10,7 @@ That's about it, honestly. Hope I see you again sometime.
 [![Web toolbelt](https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,flask,firebase,gcp,postman,vercel)](https://skillicons.dev)
 
 ## Other Toolbelt
-[![Other toolbelt](https://skillicons.dev/icons?i=c,cpp,py,matlab,lua,tensorflow,git)](https://skillicons.dev)
+[![Other toolbelt](https://skillicons.dev/icons?i=c,cpp,rust,py,matlab,lua,tensorflow,git)](https://skillicons.dev)
 
 ## Other Tools
 [![Other toolbelt](https://skillicons.dev/icons?i=ps,autocad,latex)](https://skillicons.dev)

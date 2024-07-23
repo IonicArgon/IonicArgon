@@ -1,16 +1,12 @@
-# [:wave: Hi, I'm Marco.](https://www.youtube.com/watch?v=3r-IjzlOcek) 
+# [:wave: Hey there!](https://www.youtube.com/watch?v=3r-IjzlOcek) 
 
-I'm a **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
+I'm **Marco (he/they)**, a third year **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
 
-Programming websites is cool and all, but it's pretty freaking awesome that I can tell a robot how to do things and how not to kill people.
+## :heart:
+[![Things I Love](https://skillicons.dev/icons?i=arch,cpp,py,rust,vscode)](https://skillicons.dev)
 
-That's about it, honestly. Hope I see you again sometime. 
+## 🌐
+[![Web toolbelt](https://skillicons.dev/icons?i=js,ts,tailwind,nextjs,express,flask,firebase,gcp,nodejs,bun)](https://skillicons.dev)
 
-## Web Toolbelt
-[![Web toolbelt](https://skillicons.dev/icons?i=ts,tailwind,nextjs,express,flask,firebase,gcp,postman,vercel)](https://skillicons.dev)
-
-## Other Toolbelt
-[![Other toolbelt](https://skillicons.dev/icons?i=c,cpp,rust,py,matlab,lua,pytorch,git)](https://skillicons.dev)
-
-## Other Tools
-[![Other toolbelt](https://skillicons.dev/icons?i=ps,autocad,latex)](https://skillicons.dev)
+## 🛠️
+[![Other toolbelt](https://skillicons.dev/icons?i=c,arduino,matlab,lua,pytorch)](https://skillicons.dev)

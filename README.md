@@ -10,3 +10,13 @@ I'm **Marco (he/they)**, a third year **Mechatronics and Biomedical Engineering*
 
 ## 🛠️
 [![Other toolbelt](https://skillicons.dev/icons?i=c,arduino,matlab,lua,pytorch)](https://skillicons.dev)
+
+<details>
+<summary>:eyes: Stats</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ionicargon&show_icons=true&include_all_commits=true&hide_rank=true&title_color=ffffff&text_color=ffffff&bg_color=135,ffc5e1,b6b9db" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ionicargon&layout=donut&title_color=ffffff&text_color=ffffff&bg_color=135,ffc5e1,b6b9db" />
+</a>
+</details>

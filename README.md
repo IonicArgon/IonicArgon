@@ -1,6 +1,6 @@
 # [:wave: Hey there!](https://www.youtube.com/watch?v=3r-IjzlOcek) 
 
-I'm **Marco (he/they)**, a third year **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I used to be part of **Brampton Robotics** as a programmer for the team [1104A](https://github.com/Discobots-1104A).
+I'm **Marco (he/they)**, a third year **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I'm also helping to build [crewd.](https://github.com/crewdteam)
 
 ## :heart:
 [![Things I Love](https://skillicons.dev/icons?i=arch,cpp,py,rust,vscode)](https://skillicons.dev)

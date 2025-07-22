@@ -1,6 +1,6 @@
-# [:wave: Hey there!](https://www.youtube.com/watch?v=3r-IjzlOcek) 
+# [:wave: yo](https://www.youtube.com/watch?v=3r-IjzlOcek) 
 
-I'm **Marco (he/they)**, a third year **Mechatronics and Biomedical Engineering** student at McMaster University. I currently work for **LocalStudent** automating parts of their daily operations. I'm also helping to build [crewd.](https://github.com/crewdteam)
+im **marco (he/they)**. i study **mechatronics and biomedical engineering** at mcmaster. currently building [crewd.](https://github.com/crewdteam).
 
 ## :heart:
 [![Things I Love](https://skillicons.dev/icons?i=arch,cpp,py,rust,vscode)](https://skillicons.dev)
